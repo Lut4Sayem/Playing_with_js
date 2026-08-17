@@ -1,7 +1,7 @@
 Live link: https://cse391-02.netlify.app/
 Name: MD.LUTFUR RAHMAN
 
-This submission includes:
+This includes:
 
 1. Fortune Generator
    - Random fortune display
